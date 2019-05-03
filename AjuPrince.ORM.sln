@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjuPrince.ORM", "AjuPrince.ORM.csproj", "{6A49791F-AE32-4CC7-90BD-DCFFAFCAF49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMDemo.Test", "..\ORMDemo.Test\ORMDemo.Test.csproj", "{27D8ED6C-5E97-4CC7-B353-387ECD507ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A49791F-AE32-4CC7-90BD-DCFFAFCAF49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A49791F-AE32-4CC7-90BD-DCFFAFCAF49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A49791F-AE32-4CC7-90BD-DCFFAFCAF49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A49791F-AE32-4CC7-90BD-DCFFAFCAF49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D8ED6C-5E97-4CC7-B353-387ECD507ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D8ED6C-5E97-4CC7-B353-387ECD507ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D8ED6C-5E97-4CC7-B353-387ECD507ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D8ED6C-5E97-4CC7-B353-387ECD507ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D0F453D-09FE-4215-8166-6710CBBA50B0}
+	EndGlobalSection
+EndGlobal
